@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Islam Magdy, senior full stack developer with [VNGRS](https://vngrs.com). Worked recently on exciting products: 
+I'm Islam Magdy, senior full stack developer at [Nationale-Nederlanden](https://nn.nl). Worked recently on exciting products: 
 
 I've worked on [Al-Tayer](https://www.altayer.com/) e-commerce products such as [Ounass](https://ounass.ae), [Mamas & Papas](https://www.mamasandpapas.ae/), and [GAP](https://gap.ae/), I was working with a big team on both front and backends of the web apps, adding new features, and fixing bugs.
 
