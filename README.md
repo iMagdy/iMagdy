@@ -1,40 +1,58 @@
-### Hi there 👋  
+### Hi there 👋
 
-I'm **Islam Magdy**, a passionate **Senior Full Stack Developer** assuming the role of Tech Lead for one of mortgages teams at [Nationale-Nederlanden](https://nn.nl) Bank 🏦. I love building smart, innovative apps that make life easier for users, customers, and teams. Let me tell you a bit about what I’ve been up to! 🚀  
+I'm **Islam Magdy** — a **Tech Lead and Full Stack Engineer** based in the Netherlands.
 
----
-
-### **What I’ve Been Working On**  
-
-- **Fintech at Nationale-Nederlanden**: Led the development of multipel solutions to enhance user experiences and streamline operations. Think smarter, faster, and create more efficient solutions for everyone involved 💡.  
-- **WhatsNeu**: Led the major rebuild of [WhatsNeu](https://whatsneu.gg/) from scratch (outside Shopify). From storefronts to admin panels, I’ve been hands-on with everything 🛠️.  
-- **E-commerce with Al-Tayer**: Worked on high-profile platforms like [Ounass](https://ounass.ae), [Mamas & Papas](https://www.mamasandpapas.ae/), and [GAP](https://gap.ae/). Collaborated with a stellar team to add features, squash bugs, and deliver seamless shopping experiences 🛒.  
-- **Mall Apps for Majid Al Futtaim**: Built backend APIs for some of the world’s most popular malls, including [Mall of the Emirates](https://www.malloftheemirates.com/) and [Mall of Egypt](https://www.mallofegypt.com/). With just one other developer, we created serverless mobile backend APIs from scratch 🏗️.  
+I build cloud-native systems, developer tools, and AI-enabled workflows that help teams deliver better software. My background spans fintech, e-commerce, mobile platforms, serverless architecture, and full-stack product development.
 
 ---
 
-### **What I’m Up To Now**  
+### What I work on
 
-- **Learning**: Diving deep into AI 🐹 and exploring its potential in the finaicial domain.  
-- **Collaborating**: Always on the lookout for great entrepreneurship ideas or side projects to collaborate on. Let’s build something awesome together! 🤝  
-- **Sharing Knowledge**: Ask me about **Node.js**, **MongoDB**, **Redis**, **Firebase**, **AWS**, **React**, **Vue**, **Svelte**, **Lit-Element/HTML**, or testing. I love talking tech and sharing insights 💬.  
+- **Cloud-native engineering**  
+  Building and modernizing scalable systems using AWS serverless, TypeScript/JavaScript, GraphQL, React, CI/CD, and event-driven architectures.
 
----
+- **AI-enabled engineering**  
+  Exploring and building tools for AI-assisted code review, sprint planning, backlog refinement, developer productivity, and autonomous agent workflows.
 
-### **Let’s Connect**  
+- **Fintech at Nationale-Nederlanden**  
+  Leading engineering work in the mortgage domain, focused on digital mortgage servicing, process automation, legacy modernization, and better customer/advisor journeys.
 
-- 📫 **Email**: i.magdy.m@icloud.com  
-- 💼 **LinkedIn**: [Islam Magdy](https://linkedin.com/in/imagdy/)  
-- 💻 **GitHub**: You’re already here!  
-
----
-
-### **Fun Facts About Me**  
-
-- I’m a problem solver at heart, whether it’s debugging code or brainstorming new features 🧩.  
-- I thrive in fast-paced environments and love tackling challenges head-on ⚡.  
-- When I’m not coding, you’ll probably find me exploring new tech trends or tinkering with side projects 🛠️.  
+- **E-commerce and mobile platforms**  
+  Previously worked on large-scale platforms and apps for brands including Ounass, Mamas & Papas, GAP, WhatsNeu, Mall of the Emirates, and Mall of Egypt.
 
 ---
 
-Thanks for stopping by!
+### Things I enjoy building
+
+- Developer tools and engineering productivity platforms
+- AI agents and applied AI workflows
+- Cloud/serverless backends
+- Full-stack web applications
+- Systems that turn complex business processes into simple user experiences
+
+---
+
+### Tech I work with
+
+TypeScript, Node.js, React, GraphQL, AWS, PostgreSQL, MongoDB, CI/CD, testing automation, and cloud/serverless architecture.
+
+I also explore Python, Rust, and AI/agent workflows for developer tools and automation.
+
+---
+
+### Current interests
+
+- AI-assisted software engineering
+- Autonomous agents and personal assistant systems
+- Platform engineering
+- Cloud-native architecture
+- Developer experience and team productivity
+
+---
+
+### Let’s connect
+
+- 💼 **LinkedIn:** [Islam Magdy](https://linkedin.com/in/imagdy/)
+- 📫 **Email:** i.magdy.m@icloud.com
+
+Thanks for stopping by.
