@@ -1,58 +1,55 @@
 ### Hi there 👋
 
-I'm **Islam Magdy** — a **Tech Lead and Full Stack Engineer** based in the Netherlands.
+I'm **Islam Magdy**, founder of [Ktesio](https://ktesio.com), a software company in Rotterdam, and a Tech Lead at Nationale-Nederlanden. I've spent 15+ years in software and have led engineering teams since 2015.
 
-I build cloud-native systems, developer tools, and AI-enabled workflows that help teams deliver better software. My background spans fintech, e-commerce, mobile platforms, serverless architecture, and full-stack product development.
-
----
-
-### What I work on
-
-- **Cloud-native engineering**  
-  Building and modernizing scalable systems using AWS serverless, TypeScript/JavaScript, GraphQL, React, CI/CD, and event-driven architectures.
-
-- **AI-enabled engineering**  
-  Exploring and building tools for AI-assisted code review, sprint planning, backlog refinement, developer productivity, and autonomous agent workflows.
-
-- **Fintech at Nationale-Nederlanden**  
-  Leading engineering work in the mortgage domain, focused on digital mortgage servicing, process automation, legacy modernization, and better customer/advisor journeys.
-
-- **E-commerce and mobile platforms**  
-  Previously worked on large-scale platforms and apps for brands including Ounass, Mamas & Papas, GAP, WhatsNeu, Mall of the Emirates, and Mall of Egypt.
+At Ktesio I build open-source tools for the AI agents people run, and I take on scoped engineering work on agentic AI and platforms.
 
 ---
 
-### Things I enjoy building
+### Open source
 
-- Developer tools and engineering productivity platforms
-- AI agents and applied AI workflows
-- Cloud/serverless backends
-- Full-stack web applications
-- Systems that turn complex business processes into simple user experiences
+- **[Hekma](https://github.com/Ktesio/hekma)**: a control plane for agent workloads, written in Rust. It supervises the agents you run, meters each run's real token use and enforces budgets the moment they're crossed. Runs and Policies are being built in the open.
+  [hekma.ktesio.dev](https://hekma.ktesio.dev) · `cargo install hekma` · Apache-2.0
+
+- **[bite](https://github.com/Ktesio/bite-mcp)**: Apple's own apps (Calendar, Reminders, Mail, Notes, Contacts and Messages) as MCP tools for AI agents, each with a matching CLI verb. A Rust MCP server with a native Swift helper, and no network calls of its own.
+  `cargo install bite-mcp` · MIT
+
+More at [ktesio.dev](https://ktesio.dev).
+
+---
+
+### Also from Ktesio
+
+- **[Heronis](https://heronis.run)**: a private AI agent that shows its work. Every request becomes a Run, with its steps on a timeline and its cost on a receipt. Not open yet.
+- **[Fibers](https://getfibers.app)**: a Mac menu-bar timer whose every session is a record in your own Fibery workspace. Coming to the Mac App Store.
+- **[astro90](https://astro90.com)**: my small games label. [Inkube](https://astro90.com/inkube/) is on the App Store for iPhone and iPad; [Lighthouse](https://astro90.com/lighthouse/) is coming soon.
+
+---
+
+### At Nationale-Nederlanden
+
+Tech Lead in the mortgage domain since 2022, separate from Ktesio:
+
+- Bringing agentic AI into how the bank delivers software, including Atlas, an internal agentic CLI for PR review and backlog work that grew from one team to teams across NN Group.
+- Modernizing mortgage servicing: live components moved from Java to serverless Node.js on AWS, and an event-driven loan-redemption flow built into notaries' own systems.
+
+### Before that
+
+- **E-commerce and mobile (VNGRS)**: serverless backends and React storefronts for Majid Al Futtaim (the Mall of the Emirates and City Centres apps, Smart Parking), Al Tayer (Mamas & Papas, Gap) and Ounass, and the foundations of WhatsNeu's move off Shopify.
+- **Earlier**: Technical Lead at Sheenvalue and SkyKode, and co-founder of Hataxi, a ride-hailing startup in Cairo.
 
 ---
 
 ### Tech I work with
 
-TypeScript, Node.js, React, GraphQL, AWS, PostgreSQL, MongoDB, CI/CD, testing automation, and cloud/serverless architecture.
-
-I also explore Python, Rust, and AI/agent workflows for developer tools and automation.
+Rust, TypeScript and Node.js, Swift and SwiftUI, React and React Native, GraphQL, AWS serverless, Cloudflare, PostgreSQL, SQLite, DynamoDB, MongoDB and GitHub Actions.
 
 ---
 
-### Current interests
+### Let's connect
 
-- AI-assisted software engineering
-- Autonomous agents and personal assistant systems
-- Platform engineering
-- Cloud-native architecture
-- Developer experience and team productivity
-
----
-
-### Let’s connect
-
+- 🏢 **Ktesio:** [ktesio.com](https://ktesio.com) · [islam@ktesio.com](mailto:islam@ktesio.com)
+- 📄 **Résumé:** [in1t.com](https://in1t.com)
 - 💼 **LinkedIn:** [Islam Magdy](https://linkedin.com/in/imagdy/)
-- 📫 **Email:** i.magdy.m@icloud.com
 
 Thanks for stopping by.
