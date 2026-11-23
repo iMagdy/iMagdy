@@ -21,7 +21,7 @@ More at [ktesio.dev](https://ktesio.dev).
 ### Also from Ktesio
 
 - **[Heronis](https://heronis.run)**: a private AI agent that shows its work. Every request becomes a Run, with its steps on a timeline and its cost on a receipt. Not open yet.
-- **[Fibers](https://getfibers.app)**: a Mac menu-bar timer whose every session is a record in your own Fibery workspace. Coming to the Mac App Store.
+- **[Fibers](https://getfibers.app)**: a Mac menu-bar timer whose every session is a record in your own Fibery workspace. On the [Mac App Store](https://apps.apple.com/app/id6825261140).
 - **[astro90](https://astro90.com)**: my small games label. [Inkube](https://astro90.com/inkube/) is on the App Store for iPhone and iPad; [Lighthouse](https://astro90.com/lighthouse/) is coming soon.
 
 ---
